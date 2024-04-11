@@ -1,2 +1,2 @@
 # Tic-Tac-Toe
-this is m
+this is my first project
